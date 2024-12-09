@@ -15,7 +15,7 @@ JUnit 5
 
 bash
 Копировать код
-git clone https://github.com/yourusername/payment-service.git
+git clone https://github.com/reddotellies/bonusprocessingspimex.git
 cd payment-service
 Запуск приложения:
 
